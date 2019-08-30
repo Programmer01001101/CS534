@@ -13,5 +13,7 @@ HW2 - Linear Classification Methods
 
 HW3 - Cross Validation, Model Selection, Elastic Net Logistic Regression
 
-HW4 - 
+HW4 - Adaboost & Random Forest
+
+HW5 - 
 
