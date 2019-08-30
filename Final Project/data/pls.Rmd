@@ -1,0 +1,22 @@
+---
+title: "PLS"
+author: "Ruixiang Qi"
+date: "4/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pls)
+```
+
+```{r}
+data_clinical_patient <- read.delim("~/Desktop/授業/CS534/Final Project/data/data_clinical_patient.txt", comment.char="#")
+data_CNA <- read.delim("~/Desktop/授業/CS534/Final Project/data/data_CNA.txt", comment.char="#")
+```
+```{r}
+data_expression <- read.delim("~/Desktop/授業/CS534/Final Project/data/data_expression_median.txt", comment.char="#")
+```
+```{r}
+data_mutation <- read.delim("~/Desktop/授業/CS534/Final Project/data/data_mutations_consequence.txt", comment.char="#")
+```
