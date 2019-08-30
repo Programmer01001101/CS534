@@ -15,5 +15,7 @@ HW3 - Cross Validation, Model Selection, Elastic Net Logistic Regression
 
 HW4 - Adaboost & Random Forest
 
-HW5 - 
+HW5 - KMeans , GAP Statistic
+
+Final Project - XGBoost, PLS, ReliefF
 
