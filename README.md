@@ -5,3 +5,5 @@ Covers basic machine learning algorithms from scratch and a super fancy final pr
 
 Specifically,
 HW0 - Linear Algebra and Probability Theory Review
+HW1 - Covariance and Linear Regression
+
