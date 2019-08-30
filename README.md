@@ -17,5 +17,5 @@ HW4 - Adaboost & Random Forest
 
 HW5 - KMeans , GAP Statistic
 
-Final Project - XGBoost, PLS, ReliefF
+Final Project - Apply XGBoost, PLS, ReliefF to predict survival of breast cancer patients
 
